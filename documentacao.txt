@@ -5,7 +5,8 @@
 
 	Formulario com valiadações.
 	Simula a criação de uma conta e o login na mesma.
-
+	Caso deseje ver a aplicação funcionando, sem executar o código, tem um video no meu linkedin. O link esta na pagina 
+	principal aqui no GitHub.
 	Tecnologias:
 	- Javascript
 	- HTML
