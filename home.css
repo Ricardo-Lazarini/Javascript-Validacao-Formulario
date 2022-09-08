@@ -1,0 +1,43 @@
+body {
+	background-color: #EFEDE3;
+}
+.header {
+	width: 100%;
+	height: 50px;
+	background-color:#20B2AA;
+}
+.header h1 {
+	text-align: center;
+	color: white;
+	font-size: 20px;
+	padding: 15px;
+}
+.header h1 small{
+	float: right;
+	color: red;
+}
+.leftt {
+	width: 15%;
+	height: 750px;
+	float: left;
+	box-shadow: 2px 2px 2px 2px lightgrey;
+	margin-top: 2%;
+}
+.leftt button {
+	width: 90%;
+	height: 30px;
+	float: left;
+	margin-top: 6px;
+	color: white;
+	font-size: 15px;
+	background-color:#20B2AA;
+	border: none;
+}
+.leftt button a {
+	text-decoration: none;
+	color: white;
+}
+.rightt img{
+	width: 100px;
+	margin: 1%;
+}

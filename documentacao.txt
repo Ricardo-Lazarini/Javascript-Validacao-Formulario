@@ -1,0 +1,19 @@
+
+	Data: 08/09/2022
+
+	
+
+	Formulario com valiadações.
+	Simula a criação de uma conta e o login na mesma.
+
+	Tecnologias:
+	- Javascript
+	- HTML
+	- Css
+
+	Este formulario valida os registros que serão inseridos no banco de dados, utilizando javascript.
+	Verifica se todos os registros estão preenchidos, se a senha e a confirmação da senha são iguais e 
+	faz o mesmo processo no formulario de login.
+	Este é o primeiro formulario com validações de registros utilizando javascript que eu faço, talvez
+	as variaveis e outros elementos não estejam 100% corretos, mas estão funcionando.
+	Outras validações podem ser adicionadas neste formulario.
